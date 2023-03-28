@@ -38,13 +38,16 @@ Text (The description of each car, at the moment is with dummy text) (Class)
 Comment (The "All-In-One" word that describe all) (Class)
 
 Image (The image of each car) (Class)
-
+-------------------------------------------------
 HTML
 Follow the comments inside the file....
+
 Except from the defaults HTML <header>, <footer> and <body> i created various <div>...
+
 To explore the code without any confusion, it's enough find and read the Classes and IDs mentioned above.
 
 There are some Classes that i did not used in CSS but that i created in HTML like "Block". 
+
 I reserve to use it for upgrading the website and making it more fluid.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
