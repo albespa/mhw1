@@ -22,7 +22,6 @@ Download the package and use it in a folder with your default browser or with an
 - [ ] Navigation Map 1
 - [ ] Compatibility old devices 2
 - [ ] User-friendly appearance 3
-    - [ ] Nested Feature
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -44,7 +43,7 @@ If you have a suggestion that would make this better, please contant me!
 <!-- LICENSE -->
 ## License
 
-Distributed under UniCt, any use must be authorized by the creator
+Any use must be authorized by the creator.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -53,9 +52,9 @@ Distributed under UniCt, any use must be authorized by the creator
 <!-- CONTACT -->
 ## Contact
 
-Alberto - [@albespa](https://instagram.com/albespa) - albertospadaro@live.it
+Alberto Spadaro - [@albespa](https://instagram.com/albespa) - albertospadaro@live.it
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/albespa/mhw1](https://github.com/albespa/mhw1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
