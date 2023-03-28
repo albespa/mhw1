@@ -42,9 +42,12 @@ Image (The image of each car) (Class)
 HTML
 Follow the comments inside the file....
 
-Except from the defaults HTML <header>, <footer> and <body> i created various <div>...
+Except from the defaults HTML:
+<header>, <footer> and <body> I created various <div> so
 
-To explore the code without any confusion, it's enough find and read the Classes and IDs mentioned above.
+to explore the code without any confusion, it's enough find and 
+
+read the Classes and IDs mentioned above.
 
 There are some Classes that i did not used in CSS but that i created in HTML like "Block". 
 
