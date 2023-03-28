@@ -34,7 +34,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please contant me!
+If you have a suggestion that would make this better, please contact me!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
