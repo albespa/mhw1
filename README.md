@@ -43,7 +43,7 @@ Image (The image of each car) (Class)
 Follow the comments inside the file....
 
 Except from the defaults HTML:
-<header>, <footer> and <body> I created various <div> so
+"header", "footer" and "body" I created various "div" so
 
 to explore the code without any confusion, it's enough find and 
 
