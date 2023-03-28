@@ -12,7 +12,7 @@ Notepad++ (HTML+CSS)
 
 Download the package and use it in a folder with your default browser or with an FTP app.
 
-CSS
+##CSS
 Follow the comments inside the file, except from the defaults selectors i created these IDs and Classes:
 
 Flex-Container (For the Navigation Bar Visualization) (ID)
@@ -38,8 +38,8 @@ Text (The description of each car, at the moment is with dummy text) (Class)
 Comment (The "All-In-One" word that describe all) (Class)
 
 Image (The image of each car) (Class)
--------------------------------------------------
-HTML
+
+##HTML
 Follow the comments inside the file....
 
 Except from the defaults HTML:
